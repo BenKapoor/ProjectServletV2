@@ -12,6 +12,7 @@ Au niveau de votre disque C, ouvirir une console cmd et ecrire:
 
 Aller dans `target\checkout\GTMServlet`
 
+Exécutez la commande :
 `mvn install`
 
 Aller dans le dossier target et récupérer le war génréré.
